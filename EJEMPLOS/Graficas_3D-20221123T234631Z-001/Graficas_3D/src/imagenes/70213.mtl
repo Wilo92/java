@@ -1,0 +1,2497 @@
+# File produced by 
+
+newmtl Box01
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Box02
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Box03
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Circle01
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Circle02
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Circle03
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0 0 0
+
+newmtl Circle06
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Circle060
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Circle07
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Circle070
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Cylinde11
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Cylinde18
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Cylinde20
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Cylinde26
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Cylinder0
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Cylinder2
+  Ns 106.41
+  d 1.0
+  illum 2
+  Kd 0.1137 0.1137 0.1137
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+
+newmtl Cylinder9
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line01
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line02
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line03
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line04
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line05
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line06
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line07
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line08
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line09
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line10
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line100
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line101
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line102
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line103
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line104
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line105
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line106
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line107
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line108
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line109
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line11
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line110
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line111
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line112
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line113
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line114
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line115
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line116
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line117
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line118
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line119
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line12
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line120
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line121
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line122
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line123
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line124
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line125
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line126
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line127
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line128
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line129
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line13
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line130
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line131
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line132
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line133
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line134
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line135
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line138
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line139
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line14
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line140
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line141
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line142
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line143
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line144
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line145
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line146
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line147
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line148
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line149
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line15
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line150
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line151
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line152
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line153
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line154
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line155
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line156
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line157
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line158
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line159
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line16
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line160
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line161
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line162
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line163
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line164
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line165
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line166
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line167
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line168
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line169
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line17
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line170
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line171
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line172
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line173
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line174
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line175
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line176
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line177
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line178
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line179
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line18
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line180
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line181
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line182
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line183
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line184
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line185
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line186
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line187
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line188
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line189
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line19
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line190
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line191
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line192
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line193
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line194
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line195
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line196
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line197
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line198
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line199
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line20
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line200
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line201
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line202
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line203
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line204
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line205
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line206
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line207
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line208
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line209
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line21
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line210
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line211
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line212
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line213
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line214
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line215
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line216
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line217
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line218
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line219
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line22
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line220
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line221
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line222
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line223
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line224
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line225
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line226
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line227
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line228
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line229
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line23
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line230
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line231
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line232
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line233
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line234
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line235
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line236
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line237
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line238
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line239
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line24
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line240
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line241
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line242
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line243
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line244
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line245
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line246
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line247
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line248
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line249
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line25
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line250
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line251
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line252
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line253
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line254
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line255
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line256
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line257
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line258
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line259
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line26
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line260
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line261
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line262
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line263
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line264
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line265
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line266
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line267
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line268
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line269
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line27
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line270
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line271
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line272
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line273
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Line274
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line275
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Line276
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Line28
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line29
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line30
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line31
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line32
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line33
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line34
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line35
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line36
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line37
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line38
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line39
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line40
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line41
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line42
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line43
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line44
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line45
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line46
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line47
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line48
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line49
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line50
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line51
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line52
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line53
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line54
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line55
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line56
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line57
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line58
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line59
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line60
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line61
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line62
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line63
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line64
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line65
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line66
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line67
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line68
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line69
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line70
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line71
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line72
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line73
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line74
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line75
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line76
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line77
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line78
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line79
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line80
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line81
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line82
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line83
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line84
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line85
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line86
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line87
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line88
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line89
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line90
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line91
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line92
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line93
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line94
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line95
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line96
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line97
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line98
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Line99
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl NGon01
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl NGon02
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl NGon03
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Object05
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl OilTank01
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl out_ring
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl out_ring0
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Plane01
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Plane02
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Plane03
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl plat
+  Ns 106.41
+  d 1.0
+  illum 2
+  Kd 0.1137 0.1137 0.1137
+  Ka 0 0 0
+  Ks 1.0 1.0 1.0
+
+newmtl Rectang17
+  Ns 1.0
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0 0 0
+
+newmtl Rectang19
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Rectang36
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Rectangle
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Shape01
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
+
+newmtl Shape02
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Sphere03
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Sphere04
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Sphere05
+  Ns 114.03
+  d 1.0
+  illum 2
+  Kd 0 0 0
+  Ka 0 0 0
+  Ks 0.6863 0.6863 0.6863
+
+newmtl Torus01
+  Ns 93.71
+  d 1.0
+  illum 2
+  Kd 0.0667 0.0667 0.0667
+  Ka 0 0 0
+  Ks 0.0431 0.0431 0.0431
